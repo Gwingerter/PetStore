@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 97,
+    "name": "Dog"
+  },
+  "name": "Snoop",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "sta"
+    }
+  ],
+  "status": "available"
+}
